@@ -1,2 +1,1 @@
-# monty
-Project on Stack Queues
+Sta ck and queue data structures
